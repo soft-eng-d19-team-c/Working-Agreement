@@ -1,4 +1,4 @@
-# Working-Agreement
+# Working Agreement
 * On time to all meetings
   * 24 hours advance meeting if you will be late to a meeting (ASAP preferred)
 * Check slack at least once in the morning and once in the afternoon
